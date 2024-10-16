@@ -46,11 +46,11 @@ public class Calculator {
         return this.secondNumber;
     }
     // set
-    public void setFirstNumber(int number) {
-        this.firstNumber = number;
+    public void setFirstNumber(int firstNumber) {
+        this.firstNumber = firstNumber;
     }
-    public void setSecondNumber(int number) {
-        this.secondNumber = number;
+    public void setSecondNumber(int secondNumber) {
+        this.secondNumber = secondNumber;
     }
     // 배열 결과값 삭제?
     public void deleteResultArray(int index) {

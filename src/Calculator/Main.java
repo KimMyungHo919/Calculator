@@ -52,8 +52,6 @@ public class Main {
             if (exit.equals("exit")) {
                 System.out.println("시스템을 종료합니다.");
                 return;
-            } else {
-                continue;
             }
         } // 큰 while문 끝.
     }
